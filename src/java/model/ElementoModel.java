@@ -13,7 +13,8 @@ import org.hibernate.Session;
 
 /**
  *
- * @author user
+ * @author user 
+ * juan
  */
 public class ElementoModel {
     
