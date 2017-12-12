@@ -45,7 +45,7 @@ Contributor(s):
     <property name="hibernate.connection.driver_class">oracle.jdbc.OracleDriver</property>
     <property name="hibernate.connection.url">jdbc:oracle:thin:@localhost:1521:XE</property>
     <property name="hibernate.connection.username">admin_proyectosinre</property>
-    <property name="hibernate.connection.password">PROYECTOSINRE5</property>
+    <property name="hibernate.connection.password">PROYECTOSINRES</property>
     <mapping class="entity.Instructor"/>
     <mapping class="entity.Persona"/>
     <mapping class="entity.Ficha"/>
